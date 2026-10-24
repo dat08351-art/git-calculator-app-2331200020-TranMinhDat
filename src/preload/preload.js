@@ -1,0 +1,1 @@
+const { contextBridge } = require('electron'); // eslint-disable-line no-unused-vars
